@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-  imagemHome = "https://cdn.pixabay.com/photo/2020/04/20/14/47/car-5068532_960_720.png";
+  imagemHome = "https://cdn.pixabay.com/photo/2014/04/03/10/45/hammer-311342_960_720.png";
 }
